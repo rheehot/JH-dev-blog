@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Tag, 태그 게시물 예제
 date: 1991-03-24
 tags:
@@ -22,4 +22,4 @@ tags:
 
 가이드의 Markdown YAML Front matter를 참고하세요.
 
-자세한 가이드는 [Documents](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)를 확인해주세요.
+자세한 가이드는 [Documents](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)를 확인해주세요. -->
